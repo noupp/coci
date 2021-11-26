@@ -1,0 +1,6 @@
+[submodule "coci-api"]
+	path = coci-api
+	url = git@github.com:noupp/coci-api.git
+[submodule "coci-client"]
+	path = coci-client
+	url = git@github.com:noupp/coci-client.git
